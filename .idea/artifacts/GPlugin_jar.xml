@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="GPlugin:jar">
-    <output-path>$USER_HOME$/Desktop/Paper Server/plugins</output-path>
-    <root id="archive" name="GPlugin.jar">
-      <element id="module-output" name="GPlugin" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
-    </root>
-  </artifact>
-</component>
